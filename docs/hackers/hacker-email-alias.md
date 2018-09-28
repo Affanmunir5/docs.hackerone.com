@@ -7,7 +7,7 @@ id: "hackers/hacker-email-alias"
 All hackers have an email alias on HackerOne that forwards any emails to the email address that was used to register with HackerOne. This provides an easy way for programs to contact you in order to share credentials and information without having to access your actual email address. Programs now no longer have to share credentials through excel spreadsheets, shared documents, or other means.
 
 ### How It Works
-1. Upon creation of an account on HackerOne, the email alias will automatically generate based on the username you choose.
+1. Upon ation of an account on HackerOne, the email alias will automatically generate based on the username you choose.
      * Email aliases will be in the form of: <b>`[username]@wearehackerone.com`</b>
 2. Programs will email you using your email alias in order to share special credentials or to communicate with you.
 3. The email will automatically be forwarded to your actual email address.
